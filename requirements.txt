@@ -1,5 +1,6 @@
 streamlit
 pinecone>=3.0.0
+openai
+langchain
 langchain-openai
 tiktoken
-PyPDF2
