@@ -1,1 +1,5 @@
 streamlit
+pinecone>=3.0.0
+langchain-openai
+tiktoken
+PyPDF2
