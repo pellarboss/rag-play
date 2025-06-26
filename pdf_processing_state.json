@@ -1,0 +1,34 @@
+{
+  "processed_files": {
+    "pdfs/11022-sophiie-case-study-your-local-termite-and-pest-control.pdf": {
+      "hash": "47317a0fee0168f54e189d9dfa9148619fa4eaa4d06320010a83eff1b348cb72",
+      "processed": true,
+      "chunks": 10,
+      "processed_at": "2025-06-26T15:33:17.085869"
+    },
+    "pdfs/11022-sophiie-case-study-energy-educators.pdf": {
+      "hash": "5382c5396a4dbfe61b6d261e01603370399dc863b31d43107ae0d0d07aa5fc2a",
+      "processed": true,
+      "chunks": 6,
+      "processed_at": "2025-06-26T15:33:21.536003"
+    },
+    "pdfs/11022-sophiie-investor-deck-2025may-update.pdf": {
+      "hash": "8f526a0ffaf24c2769b143e01dec493861f516a674daf4bfaca9bad181e44630",
+      "processed": true,
+      "chunks": 22,
+      "processed_at": "2025-06-26T15:33:35.460594"
+    },
+    "pdfs/JueLun - Sophiie - IM.pdf": {
+      "hash": "08e2c99d546780b9e3c3cf9f17002146b5ac69601533a95501a74ae629e1133d",
+      "processed": true,
+      "chunks": 92,
+      "processed_at": "2025-06-26T15:33:53.311742"
+    },
+    "pdfs/11022-sophiie-case-study-bms-air.pdf": {
+      "hash": "b2579f671b69828f9d5bbe588cc0f6c87572d66a1a5a603e8a4a8eb90675d20f",
+      "processed": true,
+      "chunks": 7,
+      "processed_at": "2025-06-26T15:33:56.912370"
+    }
+  }
+}
